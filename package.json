@@ -1,0 +1,35 @@
+{
+  "name": "shoop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wholedev/shoop.git"
+  },
+  "author": "Adrián Polo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wholedev/shoop/issues"
+  },
+  "homepage": "https://github.com/wholedev/shoop#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.6.1",
+    "bootstrap-sass": "^3.3.7",
+    "browser-sync": "^2.18.6",
+    "browserify": "^13.3.0",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-buffer": "0.0.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-sass": "^3.0.0",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-tap": "^0.1.3",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2"
+  }
+}
